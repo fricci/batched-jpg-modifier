@@ -9,7 +9,7 @@
   "author": "Ferenc Czina <ferenc@czina.com>",
   "license": "ISC",
   "dependencies": {
-    "exiftool-vendored": "^11.4.0",
+    "exiftool-vendored": "^14.3.0",
     "find": "^0.3.0"
   }
 }
